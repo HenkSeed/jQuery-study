@@ -1,0 +1,16 @@
+.first-block {
+	color: red;
+	width: 1120px;
+	height: 200px;
+	border: 1px solid #00ff00;
+	background-color: pink;
+	background: url(../img/wpapers_ru_Солнечный-водопад.jpg);
+}
+
+.second-block {
+	width: 1120px;
+	height: 500px;
+	border: 1px solid #00ff00;
+	background-color: cyan;
+	background: url(../img/273702-alexfas01.jpg);
+}
