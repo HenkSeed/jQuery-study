@@ -1,14 +1,21 @@
+body {
+	width: 1120px;
+	margin: 0;
+	padding: 0;
+	height: auto;
+}
+
 .first-block {
 	display: flex;
 	justify-content: center;
 	color: red;
-	width: 1120px;
-	height: 200px;
+	width: 100%;
+	height: 500px;
 	border: 1px solid #00ff00;
 	background-color: pink;
 }
 .first-block-img {
-	background: url(../img/Sunny_waterfall.jpg);
+	background: url(../img/Sunny_waterfall.jpg) center;
 }
 
 #first-button {
@@ -20,13 +27,13 @@
 .second-block {
 	display: flex;
 	justify-content: center;
-	width: 1120px;
+	width: 100%;
 	height: 500px;
 	border: 1px solid #00ff00;
 	background-color: cyan;
 }
 .second-block-img {
-	background: url(../img/Aifel_tower.jpg);
+	background: url(../img/Aifel_tower.jpg) center;
 }
 
 #second-button {
